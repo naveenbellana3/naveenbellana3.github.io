@@ -1,0 +1,21 @@
+{
+  "heading": "Educational Journey",
+  "subtitle": "Discover how academic excellence shapes innovative thinking and professional growth.",
+  "entries": [
+    {
+      "degree": "Master’s degree",
+      "institution": "Campbellsville University",
+      "field": "computer science",
+      "startDate": "2023",
+      "endDate": "2025",
+      "gpa": "",
+      "description": "",
+      "achievements": [],
+      "skills": []
+    }
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Google Professional Cyber Security"
+  ]
+}

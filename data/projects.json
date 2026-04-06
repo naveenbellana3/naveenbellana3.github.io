@@ -1,0 +1,140 @@
+{
+  "heading": "Featured Projects",
+  "projects": [
+    {
+      "name": "Generative AI Usage & Governance",
+      "description": "Analyzed Cisco Umbrella DNS and security reports to establish baseline Generative AI usage, identify unique users, and rank top AI tools. Created governance-focused presentations highlighting approved tools, acceptable use, monitoring controls, and data exposure risks.",
+      "technologies": [
+        "Cisco Umbrella",
+        "DNS Analysis"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "githubUrl": "",
+      "color": "#5196fd"
+    },
+    {
+      "name": "Enterprise SOC Detection & Incident Response Platform",
+      "description": "Developed a full SOC-style monitoring and incident response environment using Splunk, Suricata, Zeek, Sysmon, and Python to simulate enterprise threat detection, automate alerts, analyze logs, and streamline security incident response workflows.",
+      "technologies": [
+        "Splunk",
+        "Suricata",
+        "Zeek",
+        "Sysmon",
+        "Python"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "githubUrl": "",
+      "color": "#8f89ff"
+    },
+    {
+      "name": "sqlmap",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Python",
+        "C",
+        "Shell",
+        "Perl",
+        "C++",
+        "PLpgSQL",
+        "TSQL",
+        "PLSQL"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/sqlmap",
+      "githubUrl": "https://github.com/naveenbellana3/sqlmap",
+      "color": "#34d399"
+    },
+    {
+      "name": "clearance",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Ruby",
+        "HTML",
+        "Shell"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/clearance",
+      "githubUrl": "https://github.com/naveenbellana3/clearance",
+      "color": "#ed649e"
+    },
+    {
+      "name": "spring-boot-3-jwt-security",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Java"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/spring-boot-3-jwt-security",
+      "githubUrl": "https://github.com/naveenbellana3/spring-boot-3-jwt-security",
+      "color": "#f97316"
+    },
+    {
+      "name": "theharvester",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/theharvester",
+      "githubUrl": "https://github.com/naveenbellana3/theharvester",
+      "color": "#facc15"
+    },
+    {
+      "name": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/contribution-history",
+      "githubUrl": "https://github.com/naveenbellana3/contribution-history",
+      "color": "#5196fd"
+    },
+    {
+      "name": "shadowsocks-android",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/shadowsocks-android",
+      "githubUrl": "https://github.com/naveenbellana3/shadowsocks-android",
+      "color": "#8f89ff"
+    },
+    {
+      "name": "wazuh",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/wazuh",
+      "githubUrl": "https://github.com/naveenbellana3/wazuh",
+      "color": "#34d399"
+    },
+    {
+      "name": "gitleaks",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/gitleaks",
+      "githubUrl": "https://github.com/naveenbellana3/gitleaks",
+      "color": "#ed649e"
+    },
+    {
+      "name": "ossec-hids",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/ossec-hids",
+      "githubUrl": "https://github.com/naveenbellana3/ossec-hids",
+      "color": "#f97316"
+    },
+    {
+      "name": "yolo-1775491438461",
+      "description": "⚡ YOLO: Merge without review for achievement",
+      "technologies": [],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/naveenbellana3/yolo-1775491438461",
+      "githubUrl": "https://github.com/naveenbellana3/yolo-1775491438461",
+      "color": "#facc15"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "heading": "Skills & Technologies",
+  "categories": [
+    {
+      "name": "Languages",
+      "color": "#60a5fa",
+      "icon": "code",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 81
+        },
+        {
+          "name": "PowerShell",
+          "level": 81
+        },
+        {
+          "name": "Bash",
+          "level": 91
+        },
+        {
+          "name": "Automation Scripting",
+          "level": 87
+        }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "color": "#34d399",
+      "icon": "server",
+      "skills": [
+        {
+          "name": "ISO/IEC 27001",
+          "level": 83
+        },
+        {
+          "name": "NIST CSF",
+          "level": 82
+        },
+        {
+          "name": "GDPR",
+          "level": 81
+        },
+        {
+          "name": "SOC 2",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "color": "#f97316",
+      "icon": "cloud",
+      "skills": [
+        {
+          "name": "CrowdStrike Falcon",
+          "level": 82
+        },
+        {
+          "name": "Cisco Umbrella",
+          "level": 81
+        },
+        {
+          "name": "LogRhythm SIEM",
+          "level": 76
+        },
+        {
+          "name": "ExtraHop NDR",
+          "level": 92
+        },
+        {
+          "name": "ServiceNow",
+          "level": 93
+        },
+        {
+          "name": "PagerDuty",
+          "level": 85
+        },
+        {
+          "name": "Rapid7 InsightVM",
+          "level": 79
+        },
+        {
+          "name": "AWS (CloudTrail, Config, CloudWatch)",
+          "level": 92
+        },
+        {
+          "name": "Microsoft Azure (Security Center)",
+          "level": 84
+        },
+        {
+          "name": "Splunk",
+          "level": 83
+        },
+        {
+          "name": "Tableau",
+          "level": 91
+        },
+        {
+          "name": "Power BI",
+          "level": 84
+        },
+        {
+          "name": "Jira",
+          "level": 83
+        }
+      ]
+    },
+    {
+      "name": "Technical",
+      "color": "#a78bfa",
+      "icon": "palette",
+      "skills": [
+        {
+          "name": "Security Monitoring & Incident Response",
+          "level": 88
+        },
+        {
+          "name": "Vulnerability & Risk Management",
+          "level": 87
+        },
+        {
+          "name": "Cloud & Infrastructure Security",
+          "level": 77
+        },
+        {
+          "name": "Enterprise Tools & Analytics",
+          "level": 83
+        },
+        {
+          "name": "Threat Intelligence",
+          "level": 86
+        },
+        {
+          "name": "IOC & Threat Analysis",
+          "level": 93
+        },
+        {
+          "name": "Anomaly Detection",
+          "level": 81
+        },
+        {
+          "name": "Risk Assessment",
+          "level": 79
+        },
+        {
+          "name": "Threat Modeling",
+          "level": 82
+        },
+        {
+          "name": "Data Loss Prevention (DLP)",
+          "level": 87
+        },
+        {
+          "name": "Compliance & Governance",
+          "level": 92
+        },
+        {
+          "name": "Identity and Access Management (IAM)",
+          "level": 90
+        },
+        {
+          "name": "Role-Based Access Control (RBAC)",
+          "level": 76
+        },
+        {
+          "name": "Zero Trust Security Model",
+          "level": 75
+        }
+      ]
+    }
+  ]
+}

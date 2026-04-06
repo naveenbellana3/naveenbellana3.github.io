@@ -1,0 +1,63 @@
+{
+  "heading": "Professional Journey",
+  "subtitle": "Transforming ideas into digital reality, one project at a time",
+  "positions": [
+    {
+      "title": "Security Analyst",
+      "company": "Intuit Inc",
+      "location": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "description": "Supported an AI-based Fraud & Threat Detection Program by gathering requirements, mapping workflows, and connecting cloud, endpoint, and payment system data, using machine learning models to find suspicious activity. Contributed to the automation of security log collection and enrichment with Python and PowerShell. Helped configure SIEM and interactive dashboards in Splunk and Tableau, collecting logs from AWS CloudTrail, Azure Security Center, and firewall systems. Coordinated incident response and remediation using ServiceNow and PagerDuty, leveraging AWS Config and CloudWatch. Assisted in applying AI-based analytics to detect abnormal behavior and identify root causes. Delivered executive reports and presentations translating AI insights into actionable recommendations.",
+      "achievements": [
+        "Supported an AI-based Fraud & Threat Detection Program by gathering requirements, mapping workflows, and connecting cloud, endpoint, and payment system data, using machine learning models to find suspicious activity.",
+        "Contributed to the automation of security log collection and enrichment with Python and PowerShell.",
+        "Helped configure SIEM and interactive dashboards in Splunk and Tableau, collecting logs from AWS CloudTrail, Azure Security Center, and firewall systems.",
+        "Coordinated incident response and remediation using ServiceNow and PagerDuty, leveraging AWS Config and CloudWatch.",
+        "Assisted in applying AI-based analytics to detect abnormal behavior and identify root causes.",
+        "Delivered executive reports and presentations translating AI insights into actionable recommendations."
+      ],
+      "technologies": [
+        "Python",
+        "PowerShell",
+        "Splunk",
+        "Tableau",
+        "AWS CloudTrail",
+        "Azure Security Center",
+        "ServiceNow",
+        "PagerDuty",
+        "AWS Config",
+        "CloudWatch",
+        "Machine Learning"
+      ]
+    },
+    {
+      "title": "Security & Risk Analyst",
+      "company": "S&P Global",
+      "location": "",
+      "startDate": "2021",
+      "endDate": "2023",
+      "description": "Integrated S&P Global’s ITSM, SIEM, and vulnerability management platforms, automating incident creation and risk workflows. Conducted risk assessments for cloud systems, IT platforms, and third-party data vendors. Standardized incident response workflows, improving documentation and escalation practices. Applied Vulnerability Assessment, Threat Modeling, and Data Loss Prevention on financial analytics platforms. Developed and maintained policies, procedures, and audit frameworks aligned with ISO/IEC 27001, NIST CSF, GDPR, and SOC 2. Managed vendor and third-party risk programs using risk scoring models and compliance checks. Delivered enterprise-wide cybersecurity and data privacy training programs.",
+      "achievements": [
+        "Integrated S&P Global’s ITSM, SIEM, and vulnerability management platforms, automating incident creation and risk workflows.",
+        "Conducted risk assessments for cloud systems, IT platforms, and third-party data vendors.",
+        "Standardized incident response workflows, improving documentation and escalation practices.",
+        "Applied Vulnerability Assessment, Threat Modeling, and Data Loss Prevention on financial analytics platforms.",
+        "Developed and maintained policies, procedures, and audit frameworks aligned with ISO/IEC 27001, NIST CSF, GDPR, and SOC 2.",
+        "Managed vendor and third-party risk programs using risk scoring models and compliance checks.",
+        "Delivered enterprise-wide cybersecurity and data privacy training programs."
+      ],
+      "technologies": [
+        "ITSM",
+        "SIEM",
+        "ISO/IEC 27001",
+        "NIST CSF",
+        "GDPR",
+        "SOC 2",
+        "Vulnerability Assessment",
+        "Threat Modeling",
+        "DLP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Naveen Bellana",
+  "roles": [
+    "Security Analyst",
+    "Security & Risk Analyst"
+  ],
+  "tagline": "Cybersecurity professional with 4+ years of experience in monitoring, incident response, vulnerability management, and risk assessment across cloud, enterprise, and IT environments. Skilled in automation, security analytics, and compliance frameworks like ISO/IEC 27001, NIST CSF, GDPR, and SOC 2. Experienced with cloud platforms, DevOps processes, and security tools to enhance visibility, streamline workflows, and support effective decision-making and organizational security posture.",
+  "ctaPrimary": {
+    "text": "View Projects",
+    "href": "#projects"
+  },
+  "ctaSecondary": {
+    "text": "Get Resume",
+    "href": "#contact"
+  },
+  "codeSnippet": {
+    "filename": "developer.js",
+    "code": "const profile = {\n    name: 'Naveen Bellana',\n    title: 'Security Analyst',\n    skills: [\n        'Python', 'PowerShell', 'Bash', 'Automation Scripting', 'ISO/IEC 27001', 'NIST CSF', 'GDPR', 'SOC 2', 'CrowdStrike Falcon'\n    ],\n    hardWorker: true,\n    quickLearner: true,\n    problemSolver: true,\n    yearsOfExperience: 1,\n    hireable: function() {\n        return (\n            this.hardWorker &&\n            this.problemSolver &&\n            this.skills.length >= 5\n        );\n    }\n};"
+  },
+  "floatingBadges": [
+    {
+      "text": "UI Magic",
+      "color": "purple"
+    },
+    {
+      "text": "Clean Code",
+      "color": "blue"
+    },
+    {
+      "text": "Innovation",
+      "color": "amber"
+    }
+  ],
+  "socialLinks": {
+    "github": "https://github.com/naveenbellana3",
+    "linkedin": "https://www.linkedin.com/in/naveenbellana",
+    "email": "naveenbellana04@gmail.com"
+  }
+}
