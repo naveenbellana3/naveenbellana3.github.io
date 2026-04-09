@@ -15,20 +15,20 @@
     "href": "#contact"
   },
   "codeSnippet": {
-    "filename": "developer.js",
-    "code": "const profile = {\n    name: 'Naveen Bellana',\n    title: 'Security Analyst',\n    skills: [\n        'Python', 'PowerShell', 'Bash', 'Automation Scripting', 'ISO/IEC 27001', 'NIST CSF', 'GDPR', 'SOC 2', 'CrowdStrike Falcon'\n    ],\n    hardWorker: true,\n    quickLearner: true,\n    problemSolver: true,\n    yearsOfExperience: 1,\n    hireable: function() {\n        return (\n            this.hardWorker &&\n            this.problemSolver &&\n            this.skills.length >= 5\n        );\n    }\n};"
+    "filename": "security_analyst.js",
+    "code": "const profile = {\n    name: 'Naveen Bellana',\n    title: 'Security Analyst',\n    skills: [\n        'CrowdStrike', 'Splunk', 'AWS',\n        'Python', 'PowerShell', 'SIEM',\n        'ISO 27001', 'NIST CSF', 'SOC 2'\n    ],\n    hardWorker: true,\n    quickLearner: true,\n    problemSolver: true,\n    yearsOfExperience: 4,\n    hireable: function() {\n        return (\n            this.hardWorker &&\n            this.problemSolver &&\n            this.skills.length >= 5\n        );\n    }\n};"
   },
   "floatingBadges": [
     {
-      "text": "UI Magic",
+      "text": "Threat Detection",
       "color": "purple"
     },
     {
-      "text": "Clean Code",
+      "text": "Cloud Security",
       "color": "blue"
     },
     {
-      "text": "Innovation",
+      "text": "Incident Response",
       "color": "amber"
     }
   ],

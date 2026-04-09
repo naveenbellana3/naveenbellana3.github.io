@@ -168,10 +168,11 @@
     if (!sphere) return;
 
     const techNames = [
-      'JS', 'TS', 'React', 'Vue', 'Node', 'Python', 'Go', 'Rust',
-      'HTML', 'CSS', 'Docker', 'AWS', 'Git', 'Linux', 'SQL', 'Redis',
-      'Next.js', 'Express', 'Figma', 'Vercel', 'Firebase', 'GraphQL',
-      'Jest', 'Vite', 'Tailwind', 'Svelte', 'MongoDB', 'K8s'
+      'Python', 'PowerShell', 'Bash', 'Splunk', 'AWS', 'Azure',
+      'CrowdStrike', 'SIEM', 'Tableau', 'Power BI', 'Jira', 'Rapid7',
+      'ServiceNow', 'PagerDuty', 'Suricata', 'Zeek', 'Sysmon', 'Wazuh',
+      'NIST', 'ISO 27001', 'GDPR', 'SOC 2', 'IAM', 'DLP',
+      'CloudTrail', 'Zero Trust', 'ExtraHop', 'LogRhythm'
     ];
 
     const count = techNames.length;
@@ -337,8 +338,13 @@
       ctaSecondary.querySelector('.btn-inner').innerHTML = `<span>${data.ctaSecondary.text || 'Get Resume'}</span>${icon('envelope', 'btn-icon-mail')}`;
     }
 
-    // Floating badges
+    // Floating badges - move container to hero-container so badges span full width
     const badgeContainer = section.querySelector('.hero-floating-badges');
+    const heroContainer = section.querySelector('.hero-container');
+    if (heroContainer && badgeContainer) {
+      heroContainer.style.position = 'relative';
+      heroContainer.appendChild(badgeContainer);
+    }
     const badgeIcons = { purple: 'wand', blue: 'code', amber: 'lightbulb' };
     if (data.floatingBadges) {
       data.floatingBadges.forEach(b => {
@@ -733,6 +739,23 @@
     if (config.bgSecondary) root.style.setProperty('--bg-secondary', config.bgSecondary);
 
     if (config.siteName) document.title = config.siteName;
+
+    // Set favicon from emoji
+    if (config.faviconEmoji) {
+      const emojiMap = { rocket: '\uD83D\uDE80', shield: '\uD83D\uDEE1\uFE0F', lock: '\uD83D\uDD12' };
+      const emoji = emojiMap[config.faviconEmoji] || config.faviconEmoji;
+      const canvas = document.createElement('canvas');
+      canvas.width = 64; canvas.height = 64;
+      const ctx = canvas.getContext('2d');
+      ctx.font = '56px serif';
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(emoji, 32, 36);
+      const link = document.querySelector('link[rel="icon"]') || document.createElement('link');
+      link.rel = 'icon';
+      link.href = canvas.toDataURL();
+      document.head.appendChild(link);
+    }
   }
 
   // ---- Scroll-based navigation highlighting ---- //

@@ -2,7 +2,7 @@
   "heading": "Skills & Technologies",
   "categories": [
     {
-      "name": "Languages",
+      "name": "Programming & Automation",
       "color": "#60a5fa",
       "icon": "code",
       "skills": [
@@ -25,9 +25,9 @@
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Compliance Frameworks",
       "color": "#34d399",
-      "icon": "server",
+      "icon": "certificate",
       "skills": [
         {
           "name": "ISO/IEC 27001",
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "name": "Technical",
+      "name": "Security Domains",
       "color": "#a78bfa",
-      "icon": "palette",
+      "icon": "layers",
       "skills": [
         {
           "name": "Security Monitoring & Incident Response",

@@ -6,16 +6,18 @@
       "description": "Analyzed Cisco Umbrella DNS and security reports to establish baseline Generative AI usage, identify unique users, and rank top AI tools. Created governance-focused presentations highlighting approved tools, acceptable use, monitoring controls, and data exposure risks.",
       "technologies": [
         "Cisco Umbrella",
-        "DNS Analysis"
+        "DNS Analysis",
+        "Governance",
+        "Risk Assessment"
       ],
       "imageUrl": "",
       "liveUrl": "",
       "githubUrl": "",
-      "color": "#5196fd"
+      "color": "#60a5fa"
     },
     {
       "name": "Enterprise SOC Detection & Incident Response Platform",
-      "description": "Developed a full SOC-style monitoring and incident response environment using Splunk, Suricata, Zeek, Sysmon, and Python to simulate enterprise threat detection, automate alerts, analyze logs, and streamline security incident response workflows.",
+      "description": "Developed a full SOC-style monitoring and incident response environment using Splunk, Suricata, Zeek, Sysmon, and Python to simulate enterprise threat detection, automate alerts, analyze logs, and streamline security incident response workflows for real-time protection.",
       "technologies": [
         "Splunk",
         "Suricata",
@@ -26,114 +28,61 @@
       "imageUrl": "",
       "liveUrl": "",
       "githubUrl": "",
-      "color": "#8f89ff"
+      "color": "#a78bfa"
     },
     {
-      "name": "sqlmap",
-      "description": "Portfolio project showcasing development capabilities",
+      "name": "Phishing Triage",
+      "description": "Automated phishing email analysis and triage tool built with Python for rapid classification, threat indicator extraction, and incident response workflow integration.",
       "technologies": [
         "Python",
-        "C",
-        "Shell",
-        "Perl",
-        "C++",
-        "PLpgSQL",
-        "TSQL",
-        "PLSQL"
+        "Email Security",
+        "Threat Analysis",
+        "Automation"
       ],
       "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/sqlmap",
-      "githubUrl": "https://github.com/naveenbellana3/sqlmap",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/naveenbellana3/phishing-triage",
       "color": "#34d399"
     },
     {
-      "name": "clearance",
-      "description": "Educational project for mastering software architecture",
+      "name": "EncryPC",
+      "description": "Encryption utility built in Python for secure file and data encryption, implementing modern cryptographic algorithms for data protection and confidentiality.",
       "technologies": [
-        "Ruby",
-        "HTML",
-        "Shell"
+        "Python",
+        "Cryptography",
+        "Data Protection"
       ],
       "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/clearance",
-      "githubUrl": "https://github.com/naveenbellana3/clearance",
-      "color": "#ed649e"
-    },
-    {
-      "name": "spring-boot-3-jwt-security",
-      "description": "Portfolio project showcasing development capabilities",
-      "technologies": [
-        "Java"
-      ],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/spring-boot-3-jwt-security",
-      "githubUrl": "https://github.com/naveenbellana3/spring-boot-3-jwt-security",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/naveenbellana3/encrypc",
       "color": "#f97316"
     },
     {
-      "name": "theharvester",
-      "description": "Learning project built with modern web technologies",
+      "name": "TheHarvester - OSINT Tool",
+      "description": "Open-source intelligence gathering tool for collecting emails, subdomains, hosts, and other data from public sources to support reconnaissance and security assessments.",
       "technologies": [
         "Python",
-        "Dockerfile"
+        "OSINT",
+        "Reconnaissance",
+        "Threat Intelligence"
       ],
       "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/theharvester",
+      "liveUrl": "",
       "githubUrl": "https://github.com/naveenbellana3/theharvester",
-      "color": "#facc15"
-    },
-    {
-      "name": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "technologies": [],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/contribution-history",
-      "githubUrl": "https://github.com/naveenbellana3/contribution-history",
-      "color": "#5196fd"
-    },
-    {
-      "name": "shadowsocks-android",
-      "description": "Portfolio project showcasing development capabilities",
-      "technologies": [],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/shadowsocks-android",
-      "githubUrl": "https://github.com/naveenbellana3/shadowsocks-android",
-      "color": "#8f89ff"
-    },
-    {
-      "name": "wazuh",
-      "description": "Practice repository for exploring advanced features",
-      "technologies": [],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/wazuh",
-      "githubUrl": "https://github.com/naveenbellana3/wazuh",
-      "color": "#34d399"
-    },
-    {
-      "name": "gitleaks",
-      "description": "Portfolio project showcasing development capabilities",
-      "technologies": [],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/gitleaks",
-      "githubUrl": "https://github.com/naveenbellana3/gitleaks",
       "color": "#ed649e"
     },
     {
-      "name": "ossec-hids",
-      "description": "Educational project for mastering software architecture",
-      "technologies": [],
+      "name": "Spring Boot JWT Security",
+      "description": "Secure authentication and authorization system using Spring Boot 3 and JSON Web Tokens (JWT) for implementing role-based access control in enterprise applications.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "JWT",
+        "Authentication"
+      ],
       "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/ossec-hids",
-      "githubUrl": "https://github.com/naveenbellana3/ossec-hids",
-      "color": "#f97316"
-    },
-    {
-      "name": "yolo-1775491438461",
-      "description": "⚡ YOLO: Merge without review for achievement",
-      "technologies": [],
-      "imageUrl": "",
-      "liveUrl": "https://github.com/naveenbellana3/yolo-1775491438461",
-      "githubUrl": "https://github.com/naveenbellana3/yolo-1775491438461",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/naveenbellana3/spring-boot-3-jwt-security",
       "color": "#facc15"
     }
   ]
